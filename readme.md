@@ -1,0 +1,1 @@
+I coded up a 'hacky' but functioning ARIMA from scratch while I was on the plane
